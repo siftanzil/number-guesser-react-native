@@ -3,7 +3,7 @@
     "name": "number-guesser-rn",
     "slug": "number-guesser-rn",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
